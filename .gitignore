@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+logs/
+airflow.db
+
+# Ambiente
+.env
+
+# VS Code
+.vscode/
+
+# Python
+venv/
+.venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI
+*.pbix.autosave
